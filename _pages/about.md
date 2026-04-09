@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+Solomon Ohene Nyarko is a doctoral student
+Solomon Ohene Nyarko is a doctoral student specializing in African history at the University of Miami, and working with Professor Edmund Abaka. His research project focuses on Shea Butter Production and Trade in Northern Ghana from approximately 1850 to 1960 emphasizing its economic significance and impact on the local economy. He also explores themes of sustainability, women's empowerment, and the relevance of shea butter for the global market.
+
+He holds a B.A. in History / Geography and Resource Development from the University of Ghana, where he served as a Teaching Assistant in the History Department (2022-2023). Additionally, he worked as a History and Geography tutor at MCS International School, which follows the Cambridge Curriculum. Solomon can be reached via email at son5@miami.edu.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
