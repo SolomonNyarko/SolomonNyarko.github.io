@@ -10,10 +10,12 @@ redirect_from:
 {% include base_path %}
 
 Education
+======
 * Ph.D in History, University of Miami, 2029 (expected)
 * B.S. in Geography and Resource Developmnet/ History, University of Ghana (2019)
 
 Work experience
+======
 * Teaching Assistant, Department of History, University of Miami
   * University of Miami, FL
   * Courses Assisted: •	HIS 236: History of the Vikings (Summer 2026)   
