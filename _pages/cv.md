@@ -35,8 +35,14 @@ Courses Assisted:
 •	HIST 435: Aspects of World History: 1914–1945 (Fall 2022)
 •	HIST 438: Aspects of World History Since 1945 (Spring 2022)
 •	HIS 236: History of the Vikings (Summer 2026)
+
+ Research Interests
+ ======
+• African Economic and Social History 
+• Gender and Labor in Africa 
+• Commodities and Trade Networks 
+• African Diaspora and Global History 
  
-  
 Skills
 ======
 * Skill 1
