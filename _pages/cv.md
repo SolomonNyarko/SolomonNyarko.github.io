@@ -17,7 +17,7 @@ Work experience
 ======
 * Teaching Assistant, Department of History, University of Miami
   * University of Miami, FL
-  * Courses Assisted: •	HIS 236: History of the Vikings (Summer 2026)   
+  * Courses Assisted: HIS 236: History of the Vikings (Summer 2026)   
 
 * 2023-2024: History / Geography Tutor
   * MCS International High School, Accra (Cambridge Curriculum)
